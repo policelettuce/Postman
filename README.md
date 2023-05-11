@@ -18,7 +18,7 @@ First NorthSpot project
 [@lunxrweb](https://t.me/cheatcodesforhoes) - UI design, props, styling, mobile games market exploration, Play Market stuff
 
 Stable on Unity 2019.1.1f1. 
-On newer vrsions there is a problem with unsupported Appodeal libraries, however I wanted to preserve the project as it was when it was finished. Deleted only 4 100MB+ files - Appodeal file and some libraries for building Unity project for Android.
+On newer versions there is a problem with unsupported Appodeal libraries, however I wanted to preserve the project as it was when it was finished. Deleted only 4 100MB+ files - Appodeal file and some libraries for building Unity project for Android.
 
 ## Tech features
 - Endless road generation with random marker and pedestrian spawn
